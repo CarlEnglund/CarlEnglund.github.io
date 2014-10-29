@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div id="home">
+  <ul class="posts">
+    {% for post in site.posts %}
+	    <h1>{{ post.title }}</h1>
+		<span class="time">{{ post.date | date_to_string }}</span>
+
+		<div class="content">
+			<div class="post">{{ post.content }}</div>
+		</div>
+  	{% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,15 @@
+name: Carl Englund
+markdown: redcarpet
+pygments: true
+github: https://www.github.com/carlenglund
+about: Studying Media Technology at Linköping University. I like code!
+urls:
+    - text: github
+      url: https://github.com/carlenglund
+    - text: mail
+      url: mailto:mail@carlenglund.se
+    - text: linkedin
+      url: https://www.linkedin.com/profile/view?id=231715314
+
+
+
