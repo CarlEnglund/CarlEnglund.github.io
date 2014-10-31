@@ -10,7 +10,7 @@ It was a project in the course TNM061 - 3-D Computer Graphics taken at Linköpin
 The result was a snow simulation adopted for usage in the dome. It was developed in C++ using OpenGL and a library called SGCT (Simple Graphics Cluster Toolkit). 
 
 A sneak peak can be shown in the picture below.
-The code can be viewed at https://github.com/tistatos/TNM061-StereoSnowSim. 
+The code can be viewed [here](https://github.com/tistatos/TNM061-StereoSnowSim).
 
 <img src="./img/sss.jpg" alt="Stereoscopic Snow Simlation" style="width:500px;height:500px">
 
