@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Atlas"
+date:   2014-11-01
+---
+Kartlas is an online geography game with questions regarding popular culture. It is mostly written in Javascript with usage of the library KineticJS, a PHP/MySQL backend was used for storage of the questions.
+
+The game was developed during the course TNM040 - Communication and User Interfaces. The project part of this course was to create an application with a user interface that focused on several of the principals we had learned during the course, for example Norman's design principles.
+
+It can be tryed out [here](http://www.kartlas.se). And if you're interested in looking at the code go [here](http://www.kartlas.se).
+
+<img src="./img/sss.jpg" alt="Stereoscopic Snow Simlation" style="width:500px;height:500px">
+
+
+
