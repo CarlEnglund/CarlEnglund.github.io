@@ -9,7 +9,7 @@ The game was developed during the course TNM040 - Communication and User Interfa
 
 It can be tryed out [here](http://www.kartlas.se). And if you're interested in looking at the code go [here](http://www.kartlas.se).
 
-<img src="./img/sss.jpg" alt="Stereoscopic Snow Simlation" style="width:500px;height:500px">
+<img src="./img/atlas.png" alt="Atlas" style="width:400px;height:300px">
 
 
 

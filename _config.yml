@@ -10,6 +10,8 @@ urls:
       url: mailto:mail@carlenglund.se
     - text: linkedin
       url: https://www.linkedin.com/profile/view?id=231715314
+    - text: CV
+      url: https://github.com/CarlEnglund/resume/raw/master/englishresume.pdf
 
 
 

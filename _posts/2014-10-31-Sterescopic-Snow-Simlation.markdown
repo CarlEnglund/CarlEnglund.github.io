@@ -12,7 +12,7 @@ The result was a snow simulation adopted for usage in the dome. It was developed
 A sneak peak can be shown in the picture below.
 The code can be viewed [here](https://github.com/tistatos/TNM061-StereoSnowSim).
 
-<img src="./img/sss.jpg" alt="Stereoscopic Snow Simlation" style="width:500px;height:500px">
+<img src="./img/sss.jpg" alt="Stereoscopic Snow Simlation" style="width:400px;height:300px">
 
 
 
